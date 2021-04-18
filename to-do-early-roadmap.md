@@ -20,4 +20,5 @@ description: This represents the early roadmap for the project
   * Bankruptcy resolution
   * Loan issuance
   * Vesting standard \(mostly complete\)
+* Make sure overall system can easily be grasped for average investor and developers looking to dive deeper into mechanics
 
