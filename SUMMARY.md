@@ -14,5 +14,5 @@
 
 ---
 
-* [To do \(early Roadmap\)](to-do-early-roadmap.md)
+* [To do](to-do-early-roadmap.md)
 

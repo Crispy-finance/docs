@@ -2,7 +2,7 @@
 description: This represents the early roadmap for the project
 ---
 
-# To do \(early Roadmap\)
+# To do
 
 ## Actual to do
 
