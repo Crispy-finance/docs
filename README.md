@@ -20,9 +20,16 @@ Where possible the products and services provided by Crispy.finance will be crea
 
 ### 3. Sustainability
 
-Many cryptocurrency projects today rely solely on hype, memes and "price go up". Meanwhile they neglect to innovate and to create long lasting value for their ecosystems. Crispy.finance will not be the same, while marketing and even monetary gain is important, it is our mission to create an organization an ecosystem built on actual innovation and value creation. 
+Many cryptocurrency projects today rely solely on hype, memes and "price go up". Meanwhile they neglect to innovate and to create long lasting value for their ecosystems. Crispy.finance will not be the same, while marketing and even monetary gain is important, it is our mission to create an organization and ecosystem built on actual innovation and value creation. 
 
+## Roadmap
 
+### Q2 - 2021
 
+1. Create Governance MVP
+2. Raise pre-seed round to fund audit of Governance MVP
+3. Launch Seed ICO to fund DAO Treasury
+4. Build NFT Loan MVP
 
+### Q3 - 2021
 
