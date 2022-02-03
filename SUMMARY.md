@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [General Introduction](README.md)
 * [Guiding principals](guiding-principals.md)
 * [Roadmap](roadmap.md)
 
