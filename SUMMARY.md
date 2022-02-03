@@ -6,4 +6,7 @@
 
 ## Crispy Staker
 
-* [General Design](crispy-staker/general-design.md)
+* [Introduction](crispy-staker/introduction.md)
+* [Meta calls](crispy-staker/meta-calls.md)
+* [Free balance accounting](crispy-staker/free-balance-accounting.md)
+* [Access control](crispy-staker/access-control.md)

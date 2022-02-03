@@ -4,7 +4,7 @@ Looking at the history of crypto there have been many scammers, fraudsters and q
 
 ### Transparency
 
-The line between marketing and deception is often quite thin so we will not tread it. We will never promise things we cannot deliver or unsure we can deliver. When speculating about the future like in our [Roadmap](roadmap.md) we will always state what it is mere speculation and what is not.
+The line between marketing and deception is often quite thin so we will not tread it. We will never promise things we cannot deliver or unsure we can deliver. When speculating about the future like in our [Roadmap](roadmap.md) we will always state what it is mere speculation and what is not. Furthermore our contracts will always be public so that they can be independently verified by other experts.
 
 ### Security
 
@@ -12,8 +12,10 @@ We will always aim to ensure that our users's assets are secure. We will apply t
 
 ### Decentralization
 
-We aim to maximize decentralization in our applications and make sure that our apps are trustless meaning that we have minimal control. Even if we become inactive, disappear or the regulatory environment changes your assets should always remain your own and under your full control.
+We aim to maximize decentralization in our applications and make sure that our apps are trustless and we have minimal control. Even if we become inactive, disappear or the regulatory environment changes your assets should always remain your own and under your full control.
+
+However for certain, non-critical parts of our applications such as our UIs we may not apply full decentralization to improve the user experience.
 
 ### Fair compensation
 
-While we may provide some of our services / apps for free we will charge for others. However we will always do so in a transparent, convenient and most importantly fair way. We will never tack on unnecessary tokens or require you to commit to long-term contracts with us. No charging for future benefits or expectations of some future gain. You'll only pay now for value gained now.
+While we may provide some of our services / apps for free we will charge for others. However we will always do so in a transparent, convenient and most importantly fair way. We will never tack on unnecessary tokens or require you to commit to fixed long-term contracts with us. No charging for future benefits or expectations of some future gain. You'll only pay now for value gained now.
